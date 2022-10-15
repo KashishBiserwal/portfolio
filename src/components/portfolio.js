@@ -58,7 +58,7 @@ export default function Portfolio(){
                         <img src="images/rpsls.png"/>
                     </div>
                     <div class="pb">
-                        <button class="phone-buttons"><i class="fa-brands fa-github"></i> <a href="https://kashishbiserwal.github.io/rock-paper-scissors-lizard-spock/">Repo</a></button>
+                        <button class="phone-buttons"><i class="fa-brands fa-github"></i> <a href="https://github.com/KashishBiserwal/rock-paper-scissors-lizard-spock/">Repo</a></button>
                         <button class="phone-buttons"><a href="https://kashishbiserwal.github.io/rock-paper-scissors-lizard-spock/">Demo</a></button>
                     </div>
                 </div>
@@ -69,7 +69,7 @@ export default function Portfolio(){
                         <p class="content-p">Take rock paper scissors to the next level.</p>
                         <br/>
                         <div>
-                            <button><i class="fa-brands fa-github"></i> <a href="https://kashishbiserwal.github.io/rock-paper-scissors-lizard-spock/">Repository</a></button>
+                            <button><i class="fa-brands fa-github"></i> <a href="https://github.com/KashishBiserwal/rock-paper-scissors-lizard-spock/">Repository</a></button>
                             <button><a href="https://kashishbiserwal.github.io/rock-paper-scissors-lizard-spock/">Demo</a></button>
                         </div>
                     </div>
