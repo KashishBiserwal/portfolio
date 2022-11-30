@@ -1,4 +1,5 @@
 import React from 'react';
+import Form from './Form';
 
 export default function Contact(){
     return (
@@ -7,7 +8,9 @@ export default function Contact(){
                 <span><i class="fa-regular fa-id-card"></i></span>
                 <span>Contact</span>
             </h1>
-            <div class="details">
+        <div className='contact-details-container'>
+        
+        <div class="details">
             <h3>Get in Touch</h3>
             <p>Open for work</p>
             <br/>
@@ -20,6 +23,10 @@ export default function Contact(){
                 <i class="fa-solid fa-envelope"></i>
                 <span>kashish.biserwal@gmail.com</span>
             </div>
+        </div>
+        <div className='form'>
+            <Form />
+        </div>
         </div>
         <div class="icons">
             <ul class="horizontal-list text-center social-icons mb35px">
