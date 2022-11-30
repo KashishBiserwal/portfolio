@@ -11,7 +11,7 @@ export default function Portfolio(){
             <div class="card">
                 <div class="face face1">
                     <div class="project-content">
-                        <img src="images/figurz.jpeg"/>
+                        <img src="images/figurz.jpeg" alt='figurz'/>
                     </div>
                     <div class="pb">
                         <button class="phone-buttons"><i class="fa-brands fa-github"></i><a href="https://github.com/KashishBiserwal/figurz">Repo</a></button>
@@ -32,7 +32,7 @@ export default function Portfolio(){
             <div class="card">
                 <div class="face face1">
                     <div class="project-content">
-                        <img src="images/mymeal.png"/>
+                        <img src="images/mymeal.png" alt='mymeal'/>
                     </div>
                     <div class="pb">
                         <button class="phone-buttons"><i class="fa-brands fa-github"></i><a href="https://github.com/KashishBiserwal/mymeal">Repo</a></button>
@@ -53,7 +53,7 @@ export default function Portfolio(){
             <div class="card">
                 <div class="face face1">
                     <div class="project-content">
-                        <img src="images/musicals.png"/>
+                        <img src="images/musicals.png" alt='musicals'/>
                     </div>
                     <div class="pb">
                         <button class="phone-buttons"><i class="fa-brands fa-github"></i> <a href="https://github.com/KashishBiserwal/musical-instruments">Repo</a></button>
@@ -76,7 +76,7 @@ export default function Portfolio(){
             <div class="card">
                 <div class="face face1">
                     <div class="project-content">
-                        <img src="images/rpsls.png"/>
+                        <img src="images/rpsls.png" alt='rpsls'/>
                     </div>
                     <div class="pb">
                         <button class="phone-buttons"><i class="fa-brands fa-github"></i> <a href="https://github.com/KashishBiserwal/rock-paper-scissors-lizard-spock">Repo</a></button>
