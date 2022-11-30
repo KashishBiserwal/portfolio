@@ -30,12 +30,11 @@ export default function Contact(){
         </div>
         <div class="icons">
             <ul class="horizontal-list text-center social-icons mb35px">
-                <li><a href="https://github.com/KashishBiserwal/" target="_blank"><i class="fa-brands fa-github"></i></a></li>
-                <li><a href="https://www.linkedin.com/in/kashishbiserwal/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+                <li><a href="https://github.com/KashishBiserwal/" target="_blank" rel="noreferrer"><i class="fa-brands fa-github"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/kashishbiserwal/" target="_blank" rel="noreferrer"><i class="fa-brands fa-linkedin"></i></a></li>
             </ul>
         </div>
         <footer className='foot'>
-            <h1></h1>
         </footer>
         </section>
     )

@@ -424,6 +424,9 @@ button:focus {
   display: flex;
   justify-content: space-evenly;
 }
+.details{
+  margin-top: 2rem;
+}
 
 
 /* media query */
@@ -518,6 +521,9 @@ button:focus {
   }
   .contact-details-container{
     display: grid;
+  }
+  .details{
+    margin-top: 0;
   }
   .form{
     margin-top: 2rem;
