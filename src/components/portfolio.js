@@ -11,7 +11,7 @@ export default function Portfolio(){
             <div class="card">
                 <div class="face face1">
                     <div class="project-content">
-                        <img src="images/figurz.jpeg" alt='figurz'/>
+                        <img src="images/figurz.jpg" alt='figurz'/>
                     </div>
                     <div class="pb">
                         <button class="phone-buttons"><i class="fa-brands fa-github"></i><a href="https://github.com/KashishBiserwal/figurz">Repo</a></button>
