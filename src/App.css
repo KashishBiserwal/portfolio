@@ -169,21 +169,21 @@ section:nth-child(2n + 1) {
 
 /* skills */
 .skills-display {
-    width: 70%;
+    width: 90%;
     padding: 10px;
     margin-bottom: 30px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
   }
   
   .skill-progress {
     width: 11rem;
-    height: 1.7rem;
+    height: 1.5rem;
     background-color: lightgrey;
     border-radius: 1rem;
     box-shadow: 1px 1px 2px 1px #b9b9b9 inset;
-    margin: 28px;
+    margin: 28px 10px;
     overflow: hidden;
   }
   
@@ -194,8 +194,8 @@ section:nth-child(2n + 1) {
   
   .skill-name span {
     color: white;
-    font-size: 1rem;
-    margin-left: 10px;
+    font-size: 0.8rem;
+    margin-left: 5px;
     vertical-align: middle;
   }
   
@@ -209,6 +209,12 @@ section:nth-child(2n + 1) {
     display: inline;
     flex-wrap: wrap;
     justify-content: space-evenly;
+  }
+
+  .skills-icon img{
+    border: 2px solid black;
+    width: 60px;
+    height: 60px;
   }
   
   /* portfolio */

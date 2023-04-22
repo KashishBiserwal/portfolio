@@ -37,7 +37,7 @@ $(document).ready(function(){
                   <div class="content">
                       <p>Hi, I am</p>
                       <h1>Kashish</h1>
-                      <h4>Front End Dev</h4>
+                      <h4>Full Stack Dev</h4>
                       <div class="mail">
                           <i class="far fa-envelope"></i>
                           <span class="email">kashish.biserwal@gmail.com</span>
