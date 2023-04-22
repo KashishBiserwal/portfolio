@@ -1,5 +1,7 @@
 import React from 'react';
 import $ from 'jquery';
+import {SiSpring, SiMongodb, SiMysql} from 'react-icons/si';
+import {FaNode} from 'react-icons/fa';
 
 export default function Skills() {
     React.useEffect(() => {
@@ -117,7 +119,7 @@ export default function Skills() {
                 </div>
                 <div class="text-center pb2rem">
                     <div class="skills-icon">
-                        <img src='images/node.png' />
+                        <FaNode />
                     </div>
                     <div class="skill-progress">
                         <div class="mb-orange" data-bar-width="65">
@@ -129,19 +131,19 @@ export default function Skills() {
                 </div>
                 <div class="text-center pb2rem">
                     <div class="skills-icon">
-                        <img src='images/springboot.png' />
+                        <SiSpring />
                     </div>
                     <div class="skill-progress">
                         <div class="mb-orange" data-bar-width="45">
                             <div class="skill-name">
-                                <span> Spring Boot </span>
+                                <span> Spring </span>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="text-center pb2rem">
                     <div class="skills-icon">
-                        <img src='public/images/mongo.png' />
+                        <SiMongodb />
                     </div>
                     <div class="skill-progress">
                         <div class="mb-orange" data-bar-width="55">
@@ -153,7 +155,7 @@ export default function Skills() {
                 </div>
                 <div class="text-center pb2rem">
                     <div class="skills-icon">
-                        <img src='images/sql.png' />
+                        <SiMysql />
                     </div>
                     <div class="skill-progress">
                         <div class="mb-orange" data-bar-width="55">
